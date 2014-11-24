@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "hipmeup",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Notify more, bug me less",
+    "description": "The description of the application"
+  }
+}
